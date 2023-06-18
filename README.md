@@ -1,5 +1,7 @@
 <h1> Affects of Migration on Housing Affordability </h1>
 
+<a>For TLDR, URL to End Result: https://public.tableau.com/app/profile/gp5012/viz/CountyHPI/Dashboard1 </a>
+
 <u> <h2> Preface </h2> </u>
 
 <p> Growing up in St.George, Utah, one of the fastest growing regions in the United States over the last 25 years, always made me wonder at the wisdom of a city who's primary intention was to grow subject only to the bounds of consumer wants. 
