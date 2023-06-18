@@ -1,6 +1,6 @@
 <h1> Affects of Migration on Housing Affordability </h1>
 
-<a>For TLDR, URL to End Result: https://public.tableau.com/app/profile/gp5012/viz/CountyHPI/Dashboard1 </a>
+<a>For TLDR, here is the URL to End Result: https://public.tableau.com/app/profile/gp5012/viz/CountyHPI/Dashboard1 </a>
 
 <u> <h2> Preface </h2> </u>
 
